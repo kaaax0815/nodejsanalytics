@@ -49,11 +49,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:kaaax0815/nodejsanalytics.git"
+    "url": "git+ssh://git@github.com/kaaax0815/nodejsanalytics.git"
   },
   "release": {
     "branches": [
       "main"
     ]
+  },
+  "bugs": {
+    "url": "https://github.com/kaaax0815/nodejsanalytics/issues"
+  },
+  "homepage": "https://github.com/kaaax0815/nodejsanalytics#readme",
+  "directories": {
+    "doc": "docs"
   }
 }
