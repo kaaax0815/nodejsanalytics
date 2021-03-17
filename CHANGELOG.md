@@ -5,6 +5,7 @@
 
 ### Added
 
+- ✨ 💚 change workflow because of config file [[fcf3e76](https://github.com/kaaax0815/nodejsanalytics/commit/fcf3e76e2e3ce9878e74b6354ec17b741d3e1e61)]
 - ✨ feature [[589ff4e](https://github.com/kaaax0815/nodejsanalytics/commit/589ff4e73e9b7d8b6d4e083e092c71fda222323b)]
 - ✨ Betahuhn Config [[e07ef00](https://github.com/kaaax0815/nodejsanalytics/commit/e07ef00bd7880184bc0f42106481390d3820e70b)]
 - ✨ Hits Analytics [[7da84c8](https://github.com/kaaax0815/nodejsanalytics/commit/7da84c8fed847101425cb312ad99c019dc5de89c)]
@@ -19,6 +20,7 @@
 
 ### Miscellaneous
 
+-  (fix) does this trigger a release? [[0dfc89a](https://github.com/kaaax0815/nodejsanalytics/commit/0dfc89a6203bf0b2eeaa3f284369197033b1213f)]
 - 📦 Please trigger a release 1.0.0 [[a59f817](https://github.com/kaaax0815/nodejsanalytics/commit/a59f817182e7c0e6c330f5b6ad9f746002546f88)]
 -  👷 semantic-release [[a675ebd](https://github.com/kaaax0815/nodejsanalytics/commit/a675ebd6121dd432b251e828a6f667e89828d014)]
 - ⚗️ ➕ gitmoji changelog [[16d2a10](https://github.com/kaaax0815/nodejsanalytics/commit/16d2a109ca3737417a3f071b936e084a34d8d52d)]
