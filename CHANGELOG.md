@@ -5,6 +5,9 @@
 
 ### Added
 
+- ✨ feature [[589ff4e](https://github.com/kaaax0815/nodejsanalytics/commit/589ff4e73e9b7d8b6d4e083e092c71fda222323b)]
+- ✨ Betahuhn Config [[e07ef00](https://github.com/kaaax0815/nodejsanalytics/commit/e07ef00bd7880184bc0f42106481390d3820e70b)]
+- ✨ Hits Analytics [[7da84c8](https://github.com/kaaax0815/nodejsanalytics/commit/7da84c8fed847101425cb312ad99c019dc5de89c)]
 - ✨ Working Hits Feature [[1bca6e6](https://github.com/kaaax0815/nodejsanalytics/commit/1bca6e619bd705771a323502195435fcaf0c2e15)]
 - ✨ 🚧💩 hit route,controller,model [[203d5b6](https://github.com/kaaax0815/nodejsanalytics/commit/203d5b61c1a8ec644db4f9b2dfcc32a150381ac4)]
 - ✅ master-&gt;main [[3015e0f](https://github.com/kaaax0815/nodejsanalytics/commit/3015e0f3d7de68a114d768dfc34800d1068746f1)]
@@ -16,6 +19,7 @@
 
 ### Miscellaneous
 
+- 📦 Please trigger a release 1.0.0 [[a59f817](https://github.com/kaaax0815/nodejsanalytics/commit/a59f817182e7c0e6c330f5b6ad9f746002546f88)]
 -  👷 semantic-release [[a675ebd](https://github.com/kaaax0815/nodejsanalytics/commit/a675ebd6121dd432b251e828a6f667e89828d014)]
 - ⚗️ ➕ gitmoji changelog [[16d2a10](https://github.com/kaaax0815/nodejsanalytics/commit/16d2a109ca3737417a3f071b936e084a34d8d52d)]
 -  Merge branch &#x27;main&#x27; of https://github.com/kaaax0815/nodejsanalytics into main [[cf4914c](https://github.com/kaaax0815/nodejsanalytics/commit/cf4914c26ae1d6a01d4e253c7877b08a40ec775f)]
