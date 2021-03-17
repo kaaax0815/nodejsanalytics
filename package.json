@@ -49,5 +49,10 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:kaaax0815/nodejsanalytics.git"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
   }
 }
