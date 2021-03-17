@@ -20,6 +20,7 @@
 
 ### Miscellaneous
 
+-  fix(depedencies) please worl [[f90875c](https://github.com/kaaax0815/nodejsanalytics/commit/f90875ca21b52c58aa38eae4306b86ed4a8df4ea)]
 -  (fix) does this trigger a release? [[0dfc89a](https://github.com/kaaax0815/nodejsanalytics/commit/0dfc89a6203bf0b2eeaa3f284369197033b1213f)]
 - 📦 Please trigger a release 1.0.0 [[a59f817](https://github.com/kaaax0815/nodejsanalytics/commit/a59f817182e7c0e6c330f5b6ad9f746002546f88)]
 -  👷 semantic-release [[a675ebd](https://github.com/kaaax0815/nodejsanalytics/commit/a675ebd6121dd432b251e828a6f667e89828d014)]
