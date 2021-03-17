@@ -1,5 +1,29 @@
 # Changelog
 
+<a name="1.0.3"></a>
+## 1.0.3 (2021-03-17)
+
+### Miscellaneous
+
+-  version(update): 1.0.3 [[2ed93b0](https://github.com/kaaax0815/nodejsanalytics/commit/2ed93b02a7326dd907c01eab423fe38ff68cfecc)]
+
+
+<a name="1.0.2"></a>
+## 1.0.2 (2021-03-17)
+
+### Miscellaneous
+
+-  fix(npm): created npm package [[181f2bd](https://github.com/kaaax0815/nodejsanalytics/commit/181f2bdeb4fcbffad52667ef9f1a416386ad35a2)]
+
+
+<a name="1.0.1"></a>
+## 1.0.1 (2021-03-17)
+
+### Miscellaneous
+
+-  fix(typo): changed name [[4af6f26](https://github.com/kaaax0815/nodejsanalytics/commit/4af6f2696b8243abe8c92bd603a4aa6f4f76ab56)]
+
+
 <a name="1.0.0"></a>
 ## 1.0.0 (2021-03-17)
 
