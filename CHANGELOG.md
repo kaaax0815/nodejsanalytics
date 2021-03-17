@@ -16,7 +16,8 @@
 
 ### Miscellaneous
 
-- ⚗️ ➕ gitmoji changelog [[e01b0a5](https://github.com/kaaax0815/nodejsanalytics/commit/e01b0a5738688ef535b6c81b97d63d1e457738b7)]
+-  👷 semantic-release [[a675ebd](https://github.com/kaaax0815/nodejsanalytics/commit/a675ebd6121dd432b251e828a6f667e89828d014)]
+- ⚗️ ➕ gitmoji changelog [[16d2a10](https://github.com/kaaax0815/nodejsanalytics/commit/16d2a109ca3737417a3f071b936e084a34d8d52d)]
 -  Merge branch &#x27;main&#x27; of https://github.com/kaaax0815/nodejsanalytics into main [[cf4914c](https://github.com/kaaax0815/nodejsanalytics/commit/cf4914c26ae1d6a01d4e253c7877b08a40ec775f)]
 -  Changelog [[2f70fc0](https://github.com/kaaax0815/nodejsanalytics/commit/2f70fc052793038dcbb7eb44f0a5897aeb028d06)]
 -  Update issue templates [[0b2f88a](https://github.com/kaaax0815/nodejsanalytics/commit/0b2f88ac7900d17dd00c06a40869a3ee82ab3bfa)]
