@@ -1,5 +1,5 @@
 {
-  "name": "analytics",
+  "name": "@kaaaxcreators/nodejsanalytics",
   "version": "1.0.0",
   "description": "Analytics REST Api",
   "main": "src/index.js",
