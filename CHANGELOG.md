@@ -5,6 +5,7 @@
 
 ### Added
 
+- ✨ Working Hits Feature [[1bca6e6](https://github.com/kaaax0815/nodejsanalytics/commit/1bca6e619bd705771a323502195435fcaf0c2e15)]
 - ✨ 🚧💩 hit route,controller,model [[203d5b6](https://github.com/kaaax0815/nodejsanalytics/commit/203d5b61c1a8ec644db4f9b2dfcc32a150381ac4)]
 - ✅ master-&gt;main [[3015e0f](https://github.com/kaaax0815/nodejsanalytics/commit/3015e0f3d7de68a114d768dfc34800d1068746f1)]
 
@@ -15,6 +16,10 @@
 
 ### Miscellaneous
 
+- ⚗️ ➕ gitmoji changelog [[e01b0a5](https://github.com/kaaax0815/nodejsanalytics/commit/e01b0a5738688ef535b6c81b97d63d1e457738b7)]
+-  Merge branch &#x27;main&#x27; of https://github.com/kaaax0815/nodejsanalytics into main [[cf4914c](https://github.com/kaaax0815/nodejsanalytics/commit/cf4914c26ae1d6a01d4e253c7877b08a40ec775f)]
+-  Changelog [[2f70fc0](https://github.com/kaaax0815/nodejsanalytics/commit/2f70fc052793038dcbb7eb44f0a5897aeb028d06)]
+-  Update issue templates [[0b2f88a](https://github.com/kaaax0815/nodejsanalytics/commit/0b2f88ac7900d17dd00c06a40869a3ee82ab3bfa)]
 -  Merge branch &#x27;main&#x27; of https://github.com/kaaax0815/nodejsanalytics into main [[ba3093d](https://github.com/kaaax0815/nodejsanalytics/commit/ba3093dc611e7e80e702baa8a253cf63e24c7b7d)]
 - 🔨 adjust dockerfile [[d0c9e3f](https://github.com/kaaax0815/nodejsanalytics/commit/d0c9e3f3d9c74aae8941f3c533eb27abd87dec4a)]
 -  Update README.md [[ab68f66](https://github.com/kaaax0815/nodejsanalytics/commit/ab68f66590bb8e4ff62673e6946a040c23f63333)]
