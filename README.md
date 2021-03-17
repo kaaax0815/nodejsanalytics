@@ -18,4 +18,4 @@ Basic Routes and Status are working, but the whole Logic with Analytics and Mong
 
 Credits to [Boilerplate](https://github.com/danielfsousa/express-rest-boilerplate)
 
-Credits to [Gitmoji,Workflow,Npm](https://github.com/BetaHuhn)
+Credits to [Gitmoji,Workflow,Npm,Configs](https://github.com/BetaHuhn)
