@@ -16,10 +16,12 @@
   </a>
 </p>
 
-## :construction::poop: Code is in Development!
+## :construction: Code is in Testing!
 
-Basic Routes and Status are working, but the whole Logic with Analytics and Mongo isnt working and hardly implemented
+Everything works, but needs to get tested in the real world.
+
+Please create Integration Testing for me, I just dont know how to make them. I want more Code Coverage
 
 Credits to [Boilerplate](https://github.com/danielfsousa/express-rest-boilerplate)
 
-Credits to [Gitmoji,Workflow,Npm,Configs](https://github.com/BetaHuhn)
+Credits for [Gitmoji,semantic-release,workflows,templates](https://github.com/BetaHuhn)
