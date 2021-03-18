@@ -6,7 +6,7 @@ const router = express.Router();
 /**
  * ALL v1/status
  */
-router.all('/status', (req, res) => res.send('OK'));
+router.all('/status', (req, res) => res.send({ status: 'OK' }));
 
 /**
  * USE v1/fortnitepy
