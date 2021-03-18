@@ -4,14 +4,9 @@ const fortnitepy = require('./fortnitepy');
 const router = express.Router();
 
 /**
- * GET v1/status
+ * ALL v1/status
  */
-router.get('/status', (req, res) => res.send('OK'));
-
-/**
- * POST v1/status
- */
-router.post('/status', (req, res) => res.send('OK'));
+router.all('/status', (req, res) => res.send('OK'));
 
 /**
  * USE v1/fortnitepy
