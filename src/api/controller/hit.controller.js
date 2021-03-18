@@ -7,7 +7,9 @@ const Hit = require('../models/hit.model');
  */
 exports.hit = async (req, res) => {
   try {
-    const currentdate = new Date().toISOString().slice(0, 10);
+    // Reassigns on new Day - I hope
+    // eslint-disable-next-line prefer-const
+    let currentdate = new Date().toISOString().slice(0, 10);
     await Hit.updateOne({ date: currentdate }, { $inc: { hits: +1 } }, { upsert: true });
     res.status(httpStatus.OK);
     res.json({ status: 200 });
