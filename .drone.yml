@@ -1,0 +1,10 @@
+kind: pipeline
+type: docker
+name: Node CI
+
+steps:
+- name: Lint
+  image: node
+  commands:
+  - npm ci
+  - npm run lint
