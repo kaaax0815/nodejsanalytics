@@ -1,3 +1,17 @@
+## [v1.1.0] - 2021-03-18
+
+[Release notes](https://github.com/kaaax0815/nodejsanalytics/releases/tag/v1.1.0) · [Compare](https://github.com/kaaax0815/nodejsanalytics/compare/v1.0.4...v1.1.0) · [Tag](https://github.com/kaaax0815/nodejsanalytics/tree/v1.1.0) · Archive ([zip](https://github.com/kaaax0815/nodejsanalytics/archive/v1.1.0.zip) · [tar.gz](https://github.com/kaaax0815/nodejsanalytics/archive/v1.1.0.tar.gz))
+
+### New features
+
+- [`ab72ae3`](https://github.com/kaaax0815/nodejsanalytics/commit/ab72ae3)  Status All Methods
+- [`3fe35bc`](https://github.com/kaaax0815/nodejsanalytics/commit/3fe35bc)  Gitmoji Semantic Release
+- [`cf422b4`](https://github.com/kaaax0815/nodejsanalytics/commit/cf422b4)  First Working Release
+
+### Bug fixes
+
+- [`23770cd`](https://github.com/kaaax0815/nodejsanalytics/commit/23770cd)  let instead of const
+
 # Changelog
 
 <a name="next"></a>
@@ -95,5 +109,3 @@
 -  Merge pull request [#1](https://github.com/kaaax0815/nodejsanalytics/issues/1) from kaaax0815/add-license-1 [[901429b](https://github.com/kaaax0815/nodejsanalytics/commit/901429b49ecea68fc973bdabb7165f301642bc8a)]
 -  Create LICENSE [[1db21fd](https://github.com/kaaax0815/nodejsanalytics/commit/1db21fdfbd9692c9998a308aca761fe5b0ca046e)]
 -  First Commit [[d51c9dc](https://github.com/kaaax0815/nodejsanalytics/commit/d51c9dc1446e296301c03b75411aee579ab17682)]
-
-
