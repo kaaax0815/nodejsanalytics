@@ -2,6 +2,7 @@ node_modules/
 .git/
 .vscode/
 coverage/
+npm-debug.log
 
 .dockerignore
 Dockerfile
