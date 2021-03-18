@@ -1,5 +1,33 @@
 # Changelog
 
+<a name="next"></a>
+## next
+
+### Added
+
+- ✅ Hits/Status Test [[481ccfa](https://github.com/kaaax0815/nodejsanalytics/commit/481ccfa1dc2a8095fe37d52e6cd3c390e4612ed8)]
+- ✅ Tests [[847c88f](https://github.com/kaaax0815/nodejsanalytics/commit/847c88f3723efd692e970ec79dab414ded9844e2)]
+- ✨ Gitmoji Semantic Release [[3fe35bc](https://github.com/kaaax0815/nodejsanalytics/commit/3fe35bca92bae79dafea140caf17cfffe2a1723d)]
+- ✨ Status All Methods [[ab72ae3](https://github.com/kaaax0815/nodejsanalytics/commit/ab72ae38932ca2c060ef046c4f0afea60875a6a1)]
+
+### Fixed
+
+- 🐛 let instead of const [[23770cd](https://github.com/kaaax0815/nodejsanalytics/commit/23770cdf6e851e96a1fdfee0103c7584e164ebdc)]
+
+### Miscellaneous
+
+- 🙈 Coveralls [[ee801c6](https://github.com/kaaax0815/nodejsanalytics/commit/ee801c6fe8bcb89eaf86efb8c882f4a8db0fed7c)]
+- 📝 semantic release README [[49046e1](https://github.com/kaaax0815/nodejsanalytics/commit/49046e189aa087a145d2604d638db91f2b121fe4)]
+
+
+<a name="1.0.4"></a>
+## 1.0.4 (2021-03-17)
+
+### Miscellaneous
+
+-  fix(github): lol [[82ff434](https://github.com/kaaax0815/nodejsanalytics/commit/82ff434da87e5aa953c167e6a1456e259bc43eec)]
+
+
 <a name="1.0.3"></a>
 ## 1.0.3 (2021-03-17)
 
