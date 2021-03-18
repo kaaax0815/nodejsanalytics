@@ -9,8 +9,10 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/kaaax0815/nodejsanalytics">
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/kaaax0815/nodejsanalytics">
   <a href="https://github.com/semantic-release/semantic-release">
-    <img alt="semantic-release"
-      src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg">
+    <img alt="semantic-release" src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg">
+  </a>
+  <a href='https://coveralls.io/github/kaaax0815/nodejsanalytics?branch=main'>
+    <img src='https://coveralls.io/repos/github/kaaax0815/nodejsanalytics/badge.svg?branch=main' alt='Coverage Status' />
   </a>
 </p>
 
