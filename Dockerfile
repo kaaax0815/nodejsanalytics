@@ -11,4 +11,4 @@ ADD package.json package-lock.json /app/
 RUN npm ci
 ADD . /app
 
-CMD ["npm", "docker:start"]
+CMD ["npm", "run", "docker:start"]

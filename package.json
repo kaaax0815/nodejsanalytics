@@ -15,7 +15,7 @@
     "postcoverage": "open-cli coverage/lcov-report/index.html",
     "docs": "apidoc -i src -o docs",
     "postdocs": "open-cli docs/index.html",
-    "docker:start": "cross-env NODE_ENV=production node start ./src/index.js",
+    "docker:start": "cross-env NODE_ENV=production node ./src/index.js",
     "test": "cross-env NODE_ENV=test nyc --reporter=html --reporter=text mocha --timeout 20000 --exit --recursive src/api/tests",
     "test:unit": "cross-env NODE_ENV=test mocha src/api/tests/unit"
   },
