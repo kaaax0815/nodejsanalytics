@@ -1,3 +1,7 @@
+## [v1.1.1] - 2021-03-19
+
+[Release notes](https://github.com/kaaax0815/nodejsanalytics/releases/tag/v1.1.1) · [Compare](https://github.com/kaaax0815/nodejsanalytics/compare/v1.1.0...v1.1.1) · [Tag](https://github.com/kaaax0815/nodejsanalytics/tree/v1.1.1) · Archive ([zip](https://github.com/kaaax0815/nodejsanalytics/archive/v1.1.1.zip) · [tar.gz](https://github.com/kaaax0815/nodejsanalytics/archive/v1.1.1.tar.gz))
+
 ## [v1.1.0] - 2021-03-18
 
 [Release notes](https://github.com/kaaax0815/nodejsanalytics/releases/tag/v1.1.0) · [Compare](https://github.com/kaaax0815/nodejsanalytics/compare/v1.0.4...v1.1.0) · [Tag](https://github.com/kaaax0815/nodejsanalytics/tree/v1.1.0) · Archive ([zip](https://github.com/kaaax0815/nodejsanalytics/archive/v1.1.0.zip) · [tar.gz](https://github.com/kaaax0815/nodejsanalytics/archive/v1.1.0.tar.gz))
