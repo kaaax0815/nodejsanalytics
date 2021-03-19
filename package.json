@@ -3,6 +3,10 @@
   "version": "1.1.1",
   "description": "Analytics REST Api",
   "main": "src/index.js",
+  "apidoc": {
+    "title": "@kaaaxcreators/nodejsanalytics Documenation",
+    "sampleUrl": null
+  },
   "scripts": {
     "changelog": "gitmoji-changelog",
     "start": "cross-env NODE_ENV=production node ./src/index.js",

@@ -5,9 +5,10 @@ const fortnitepy = express.Router();
 
 /**
  * @api {all} v1/fortnitepy/status Check Status
+ * @apiSampleRequest off
  * @apiName Status
  * @apiGroup fortnitepy
- * @apiVersion 1.0.4
+ * @apiVersion 1.1.1
  *
  *
  * @apiSuccess {String} status fortnitepy OK

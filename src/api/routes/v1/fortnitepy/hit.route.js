@@ -9,10 +9,11 @@ router
   .route('/')
   /**
    * @api {post} v1/fortnitepy/hit Add Hit
+   * @apiSampleRequest off
    * @apiDescription Add Hit to Database
    * @apiName AddHit
    * @apiGroup fortnitepy
-   * @apiVersion 1.0.4
+   * @apiVersion 1.1.1
    *
    * @apiSuccess {Number}    status  200
    *
@@ -25,7 +26,7 @@ router
    * @apiDescription Add Hit to Database
    * @apiName AddHit
    * @apiGroup fortnitepy
-   * @apiVersion 1.0.4
+   * @apiVersion 1.1.1
    *
    * @apiError (Method Not Allowed 405) {Number}  status  405
    */

@@ -4,7 +4,14 @@ const fortnitepy = require('./fortnitepy');
 const router = express.Router();
 
 /**
- * ALL v1/status
+ * @api {all} v1/status Check Status
+ * @apiSampleRequest off
+ * @apiName Status
+ * @apiGroup General
+ * @apiVersion 1.1.1
+ *
+ *
+ * @apiSuccess {String} status OK
  */
 router.all('/status', (req, res) => res.send({ status: 'OK' }));
 
