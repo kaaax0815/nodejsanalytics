@@ -16,11 +16,30 @@
   </a>
 </p>
 
-## :construction: Code is in Testing!
+## Code is Ready to Deploy
 
-Everything works, but needs to get tested in the real world.
+Everything works, Hits and Date get correctly reported.
 
-Please create Integration Testing for me, I just dont know how to make them. I want more Code Coverage
+## How to Deploy
+
+[Rename the route](https://github.com/kaaax0815/nodejsanalytics/blob/ff937215c522c8fe18ff1987805c6ac7d7008fe1/src/api/routes/v1/index.js#L14) to your application name
+
+Copy `.env.example` to `.env` and paste in set
+
+```ini
+NODE_ENV=production
+PORT=<port>
+MONGO_URI=<mongo connection string from e.g. Atlas>
+```
+
+Now you can access your API from your url
+`<yoururl>/v1/<yourroute>/hit`
+
+## Support
+
+Please create Integration Testing for me, I just don't know how to make them. I want more Code Coverage
+
+## Credits
 
 Credits to [Boilerplate](https://github.com/danielfsousa/express-rest-boilerplate)
 
