@@ -24,7 +24,7 @@ jobs:
         run: npm ci
       - name: Run tests
         env:
-            PORT: "3000"
+            PORT: ${{ secrets.TESTS_PORT }}
             MONGO_URI: ${{ secrets.MONGO_URI_TESTS }}
             MONGO_URI_TESTS: ${{ secrets.MONGO_URI_TESTS }}
         run: npm run test
