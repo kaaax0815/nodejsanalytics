@@ -16,4 +16,4 @@ const hitSchema = new mongoose.Schema({
 /**
  * @typedef Hit
  */
-module.exports = mongoose.model('Hit', hitSchema);
+module.exports = mongoose.model('fortnitepy-hits', hitSchema);

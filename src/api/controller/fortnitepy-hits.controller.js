@@ -1,5 +1,5 @@
 const httpStatus = require('http-status');
-const Hit = require('../models/hit.model');
+const Hit = require('../models/fortnitepy-hits.model');
 
 /**
  * Update Hit if new day create new Schema

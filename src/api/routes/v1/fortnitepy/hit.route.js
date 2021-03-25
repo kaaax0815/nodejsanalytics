@@ -1,7 +1,7 @@
 const express = require('express');
 const httpStatus = require('http-status');
 
-const controller = require('../../../controller/hit.controller');
+const controller = require('../../../controller/fortnitepy-hits.controller');
 
 const router = express.Router();
 
